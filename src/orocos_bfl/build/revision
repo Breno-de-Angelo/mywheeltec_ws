@@ -1,0 +1,1 @@
+svn info /home/breno/wheeltec_robot_ws/src/orocos_bfl | grep '^Revision' | sed -e 's/Revision: *//'
