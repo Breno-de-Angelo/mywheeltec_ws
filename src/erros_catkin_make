@@ -1,0 +1,20 @@
+sudo apt-get install ros-melodic-uuid-msgs ros-melodic-unique-identifier (necessário?)
+sudo apt-get install libsdl-image1.2-dev
+sudo apt-get install libsdl-dev
+sudo apt-get install ros-melodic-libuvc-camera
+sudo apt-get install ros-melodic-navigation (necessário?)
+sudo apt-get install libnewmat10-dev
+sudo apt-get install libboost-dev
+sudo apt-get install libcppunit-dev
+sudo apt-get install ros-melodic-ackermann-msgs
+sudo apt-get install ros-melodic-serial
+sudo apt-get install ros-melodic-tf2-sensor-msgs
+sudo apt-get install ros-melodic-costmap-converter
+sudo apt-get install ros-melodic-costmap-converter
+sudo apt-get install ros-melodic-mbf-msgs 
+sudo apt-get install ros-melodic-async-web-server-cpp
+sudo apt-get install ros-melodic-joy
+
+
+
+
